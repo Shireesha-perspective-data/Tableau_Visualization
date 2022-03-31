@@ -5,4 +5,4 @@
  
  **3.Figure 3 representing the number of Movies taken place in the particular month.**
  
- **4.Figure 4 representing the Budget for each Movie.***
+ **4.Figure 4 representing the Budget for each Movie. ***
